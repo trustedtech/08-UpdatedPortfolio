@@ -24,11 +24,31 @@ p {
     line-height: 1.2em;
 }
 
+i {
+    color: white;
+    margin-right: 20px;
+}
+
+.reach-me > img {
+    margin-right: 20px;
+}
+
 .content {
     margin-top: 50px;
     margin-bottom: 50px;
     background-color: white;
-    min-height: 400px;
+    min-height: 450px;
+}
+
+.project-btn {
+    border: none;
+    background: none;
+    padding: 0;
+}
+
+.screenie {
+    padding: 10px;
+    border: 1px solid lightgray;
 }
 
 section {
@@ -45,7 +65,6 @@ section h1 {
 #about img {
     display: inline-block;
     float: left;
-    border: 1px gray;
     margin: 0 30px 30px 0;
 }
 
